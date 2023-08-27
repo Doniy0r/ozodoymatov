@@ -1,0 +1,341 @@
+.navv-img {
+  width: 130px;
+  height: 50px; }
+
+.dropbtn {
+  border-radius: 30px;
+  width: 120px; }
+
+.a {
+  font-size: 17px !important;
+  color: black !important;
+  font-family: Calibri,sans-serif;
+  font-style: normal;
+  font-weight: 400; }
+
+.a:hover {
+  text-decoration: underline;
+  text-decoration-color: orangered; }
+
+.dvv {
+  width: 550px;
+  height: 400px;
+  background-color: #E5E5E5;
+  border-bottom-left-radius: 50%;
+  position: relative;
+  right: 1px;
+  margin-left: 600px; }
+
+.rt {
+  position: relative; }
+
+.cofe {
+  width: 400px;
+  height: 250px;
+  margin-top: 150px;
+  margin-left: -40px; }
+
+.text {
+  font-family: "Arial Narrow", serif;
+  font-size: 40px;
+  opacity: 0.7;
+  margin-top: 90px; }
+
+span {
+  font-weight: bold;
+  color: black; }
+
+.buyurtma {
+  background: #F26522;
+  border-radius: 100px;
+  color: #ffffff;
+  width: 250px;
+  height: 40px;
+  margin-top: 280px;
+  margin-left: -460px; }
+
+.buyurtma:hover {
+  opacity: 0.7;
+  cursor: pointer; }
+
+.pp {
+  margin-right: 50px; }
+
+.aa {
+  position: absolute;
+  margin-top: 80px; }
+
+.ab {
+  width: 16px !important;
+  height: 16px !important;
+  border-radius: 50%;
+  position: relative !important;
+  color: black !important;
+  margin-bottom: 580px !important; }
+
+.ab1 {
+  position: absolute !important;
+  right: 3px !important; }
+
+.ab2 {
+  position: absolute !important;
+  right: 3px !important;
+  top: 27px; }
+
+.ab3 {
+  right: 3px !important;
+  top: 54px !important;
+  position: absolute !important; }
+
+ul {
+  margin-bottom: 300px; }
+
+.pp {
+  font-family: Calibri,sans-serif;
+  font-weight: normal;
+  color: #37475A; }
+
+.h4h {
+  color: #37475A;
+  cursor: pointer; }
+
+.europrint {
+  width: 450px;
+  height: 500px;
+  background-color: #dfe2e2;
+  border-top-left-radius: 50%;
+  position: relative; }
+
+.eurotext {
+  font-size: 75px;
+  width: 100px;
+  position: absolute;
+  right: 290px;
+  top: 30px;
+  color: white; }
+
+.eurotext1 {
+  font-size: 75px;
+  width: 100px;
+  position: absolute;
+  right: 210px;
+  top: 100px;
+  color: white; }
+
+.vector1 {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 270px;
+  right: 240px; }
+
+.vector2 {
+  width: 70px;
+  height: 100px;
+  position: absolute;
+  top: 340px;
+  right: 330px; }
+
+.vector3 {
+  width: 140px;
+  height: 230px;
+  position: absolute;
+  top: 280px;
+  right: 430px; }
+
+.cont {
+  background-image: url("image/image 2.png");
+  width: 100%;
+  height: 700px;
+  background-position: center;
+  margin-top: 70px;
+  background-size: cover; }
+
+.hh1 {
+  position: absolute;
+  width: 364px;
+  height: 60px;
+  font-family: Calibri,sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+  color: #FFFFFF; }
+
+.cardd {
+  width: 350px;
+  height: 200px;
+  background-color: white;
+  margin-top: 20px;
+  position: relative; }
+
+.icrentang {
+  position: absolute;
+  left: 130px;
+  top: -40px;
+  width: 90px;
+  height: 90px; }
+
+.icnvector {
+  position: absolute;
+  left: 150px;
+  top: -25px; }
+
+.samaradorlik {
+  margin-top: 40px !important; }
+
+.vector7 {
+  position: absolute;
+  left: 167px;
+  top: -25px; }
+
+.vector8 {
+  position: absolute;
+  left: 163px;
+  top: -18px; }
+
+.vector9 {
+  position: absolute;
+  left: 168px;
+  top: 13px; }
+
+.divhover {
+  width: 100%;
+  height: 100%;
+  background: rgba(19, 26, 34, 0.6);
+  position: absolute;
+  top: 260px;
+  transition: 1.5s; }
+
+.buyurtmabtn {
+  width: 150px;
+  height: 35px;
+  border-radius: 40px;
+  background-color: #f26522;
+  border: none;
+  margin-left: 22px;
+  margin-top: 0; }
+
+.buyurtmabtn:hover {
+  opacity: 0.7; }
+
+.h55 {
+  margin-top: 80px; }
+
+.card {
+  overflow: hidden;
+  position: relative; }
+
+.card:hover .divhover {
+  top: 0; }
+
+.cardcarusel {
+  width: 500px;
+  height: 250px;
+  position: absolute;
+  left: 630px; }
+
+.carimg {
+  border-top-right-radius: 50%; }
+
+.lorem {
+  width: 730px;
+  height: 300px;
+  background-color: white;
+  position: absolute;
+  top: 70px;
+  left: -620px;
+  border-radius: 0;
+  border: none !important; }
+
+.bigbox {
+  display: flex;
+  position: relative; }
+
+.carousel-control-prev {
+  position: absolute;
+  left: 50px;
+  top: 300px;
+  background-color: white !important;
+  opacity: 1; }
+
+.carousel-control-next {
+  position: absolute;
+  top: 300px;
+  left: 120px;
+  color: black !important;
+  background-color: white !important;
+  opacity: 1; }
+
+.rww {
+  width: 1100px;
+  height: 200px;
+  background: #e0dcdc;
+  border-radius: 0 214.5px 0 0; }
+
+.card {
+  width: 200px;
+  height: 180px; }
+
+.mijoz2 {
+  width: 140px;
+  height: 130px;
+  border: 2px solid #c8c7c7; }
+
+.mijoz1 {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #c8c7c7; }
+
+.cardfoter {
+  background-color: #131A22;
+  width: 100%;
+  height: 700px;
+  margin-top: 400px !important;
+  position: relative; }
+
+.map {
+  position: absolute;
+  border-top-right-radius: 50%;
+  height: 400px;
+  width: 700px;
+  top: -350px; }
+
+.iconmg {
+  background-color: white;
+  border-radius: 30px;
+  width: 35px;
+  height: 35px; }
+
+.icc1 {
+  width: 50px;
+  height: 50px;
+  background-color: orangered;
+  border-radius: 50%;
+  padding: 10px; }
+
+.icc {
+  width: 50px;
+  height: 50px;
+  background-color: #2d2c2c;
+  border-radius: 50%;
+  padding: 10px; }
+
+.lakatsiya {
+  position: absolute;
+  width: 30px;
+  height: 40px;
+  right: 450px; }
+
+.h3h3 {
+  position: absolute;
+  right: 40px;
+  color: white; }
+
+p {
+  cursor: pointer; }
+
+/*# sourceMappingURL=Style.css.map */
+
+
+/*# sourceMappingURL=Style.css.map */
